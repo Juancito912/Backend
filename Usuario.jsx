@@ -41,10 +41,13 @@ let pets=['Perro','Gato'];
 let person = new Usuario('Stefano','Carbajal',books,pets);
 
 console.log(person.getFullName());
+
 console.log(person.countPets());
 person.addPets('Pez');
 console.log(person.countPets());
+
 console.log(person.getBooksNames());
 person.addBook('El señor de los anillos','Tolkien');
 console.log(person.getBooksNames());
+
 console.log(typeof person.books);

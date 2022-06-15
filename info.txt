@@ -1,0 +1,25 @@
+{
+  "contenidoStr": "\"{\\n  \\\"name\\\": \\\"backend\\\",\\n  \\\"version\\\": \\\"1.0.0\\\",\\n  \\\"description\\\": \\\"\\\",\\n  \\\"main\\\": \\\"index.js\\\",\\n  \\\"type\\\": \\\"module\\\",\\n  \\\"scripts\\\": {\\n    \\\"test\\\": \\\"echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1\\\"\\n  },\\n  \\\"repository\\\": {\\n    \\\"type\\\": \\\"git\\\",\\n    \\\"url\\\": \\\"git+https://github.com/Juancito912/Backend.git\\\"\\n  },\\n  \\\"keywords\\\": [],\\n  \\\"author\\\": \\\"Juan Carbajal\\\",\\n  \\\"license\\\": \\\"ISC\\\",\\n  \\\"bugs\\\": {\\n    \\\"url\\\": \\\"https://github.com/Juancito912/Backend/issues\\\"\\n  },\\n  \\\"homepage\\\": \\\"https://github.com/Juancito912/Backend#readme\\\"\\n}\\n\"",
+  "contenidoObj": {
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Juancito912/Backend.git"
+    },
+    "keywords": [],
+    "author": "Juan Carbajal",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Juancito912/Backend/issues"
+    },
+    "homepage": "https://github.com/Juancito912/Backend#readme"
+  },
+  "size": 495
+}
